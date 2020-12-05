@@ -3,7 +3,7 @@ Type: Package
 Title: Functions for Graphing Statcast Data
 Version: 0.4.2
 Author: Jim Albert
-Imports:  ggplot2, shiny, dplyr, mgcv, metR, purrr 
+Imports:  ggplot2, shiny, dplyr, mgcv, metR 
 Maintainer: Jim Albert <albert@bgsu.edu>
 URL: https://github.com/bayesball/CalledStrikeNew
 Description: A collection of functions useful for fitting gam models, and graphing Statcast data.
